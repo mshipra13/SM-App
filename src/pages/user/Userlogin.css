@@ -1,0 +1,84 @@
+.main{
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    padding: 90px 0 90px 0;
+    background-color: rgba(252, 252, 252 );
+}
+.sub-main{
+    display: flex;
+    justify-content: center;
+    height: 450px;
+    width: 35%;
+    box-shadow: 11px 12px 13px 12px rgba(207, 207, 207, );
+    padding-top: 30px;
+    border-radius: 60px;
+    background-color: white;
+
+}
+.Img{
+    padding-top: 71px;
+    justify-content: center;
+    display: flex;
+    width: 19%;
+    /* margin-left: 30px; */
+}
+ container-img{ 
+    background-color: rgba(223, 221, 221 );
+    border-radius: 170px;
+    align-items: center;
+    display: flex;
+    height: 99px;
+    width: 189px;
+    padding-left: 199px;
+    
+ }   
+.profile{
+    height: 65px;
+    width: 55px;
+    padding-left: 199%;
+    
+}
+
+input{
+    width: 300px;
+    height: 30px;
+    border-radius: 60px;
+    box-shadow: inset 0px 0px 25px 0px #fff;
+    border: none;
+    outline: none;
+    background-color:#fff ;
+    padding-top: 0%;
+
+}
+.email{
+    height: 25px;
+    width: 25px;
+    position: absolute;
+    padding: 14px,0,0 25px;
+
+}
+.name{
+    padding-left: 70px;
+    font-size: 20px;
+}
+.second-input{
+
+    padding-top: 20px;
+}
+button{
+    width: 380px;
+    height: 50px;
+    border-radius: 60px;
+    background-color: #1877f2;
+    color: white;
+    font: 25px;
+    border: none;
+}
+.login-button{
+    padding-top: 25px;
+}
+.link{
+    font-size: 25px;
+    font-weight: 400;
+}
